@@ -58,7 +58,7 @@ body {
 
   img {
     max-width: 100%;
-    max-height: auto;
+    height: auto;
     margin-top: 5%;
     border-radius: 2em;
     border: 0.13em solid rgb(44, 44, 44);
