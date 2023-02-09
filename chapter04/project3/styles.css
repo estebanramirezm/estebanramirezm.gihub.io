@@ -1,0 +1,123 @@
+* {
+    box-sizing: border-box;
+ }
+ body, section, header, div, p, h1, h2, h3, ul, li, figure, figcaption {
+    margin: 0;
+    padding: 0;
+ }
+ body {
+    font-family: 'Open Sans', sans-serif;
+    box-sizing: border-box;
+    background-color: #F0F4F8;
+    font-weight: 300;
+    max-width: 870px;
+ }
+ header{
+    background-image: url(https://github.com/funwebdev-3rd-ed/projects-start/blob/master/chapter04/project3/images/florence.jpg?raw=true);
+    background-size: cover;
+    width: 870px;
+    min-height: 500px;
+ }
+ nav{
+    background-image: url(https://raw.githubusercontent.com/funwebdev-3rd-ed/projects-start/ac1e0cee35dd3329161829333fb72fc874dd2bcb/chapter04/project3/images/logo.svg);
+    background-size: 60px;
+    background-repeat: no-repeat;
+    padding-bottom: 40px;
+    padding-top: 20px;
+    padding-left: 100px;
+    
+ }
+
+ main{
+    padding-top: 20px;
+ }
+
+ li{
+    display: inline-block;
+ }
+ li a{
+    list-style-type: none;
+    color: #51279B;
+    text-decoration: none;
+    font-size: 15px;
+    padding-right: 20px;
+    font-weight: 600;
+ }
+ 
+ header div{
+    color: white;
+    padding-left: 100px;
+ }
+
+ header p{
+   font-size: 24px; 
+   padding-bottom: 20px;
+ }
+
+ header div a{
+    text-decoration: none;
+    color: white;
+    background-color: #51279B;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+ }
+ h2{
+    padding-top: 70px;
+    font-size: 48px;
+    padding-bottom: 20px;
+ }
+
+ .card{
+    display: inline-block;
+    background-color: white;
+    padding-bottom: 10px;
+    width: 280px;
+    border: 1px solid lightgray;
+    box-shadow: 2px 2px 5px lightgray;
+}
+
+.card:first-of-type {
+    margin-left: 12.5px;
+}
+
+ .card h3, .card p{
+    width: 470px;
+    margin-left: 10px;
+ }
+
+ card p{
+    width: 470px;
+ }
+ 
+ .card h3{
+    font-size: 14px;
+ }
+
+ .card .description{
+    font-size: 12px;
+    margin-bottom: 5px;
+ }
+
+ .card img {
+    width: 100%;
+}
+
+ .heart{
+    background-image: url(https://github.com/funwebdev-3rd-ed/projects-start/blob/master/chapter04/project3/images/heart.png?raw=true);
+    background-repeat: no-repeat;
+    background-size: 15px;
+    padding-left: 20px;
+    padding-right: 10px;
+    font-size: 13px;
+}
+
+ .comment{
+    background-image: url(https://raw.githubusercontent.com/funwebdev-3rd-ed/projects-start/ac1e0cee35dd3329161829333fb72fc874dd2bcb/chapter04/project3/images/comment.svg);
+    background-size: 15px;
+    background-repeat: no-repeat;
+    padding-left: 20px;
+    padding-right: 10px;
+    font-size: 13px;
+}
