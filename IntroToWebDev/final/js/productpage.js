@@ -21,7 +21,7 @@ function percentage(original, sale) {
 function pageOutput(product) {
 document.write('<section class="product-details">');
 document.write('<div class="image-slider">');
-document.write(`<style>.image-slider { background-image: url('estebanramirezm.github.io/IntroToWebDev/final/${product.imagePath}'); }</style>`);
+document.write(`<style>.image-slider { background-image: url('estebanramirezm.github.io/IntroToWebDev/final${product.imagePath}'); }</style>`);
 document.write('<div class="product-images">');
 document.write('<img src="estebanramirezm.github.io/IntroToWebDev/final' + product.imagePath + '" class="product-thumb" alt="">');
 document.write('<img src="estebanramirezm.github.io/IntroToWebDev/final' + product.imagePath2 + '" class="product-thumb" alt="">');
