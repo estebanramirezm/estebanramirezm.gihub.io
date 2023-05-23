@@ -22,11 +22,11 @@ const createNav = () => {
             </div>
         </div>
         <ul class="links-container">
-            <li class="link-item"><a href="/html/home.html" class="link">Home</a></li>
-            <li class="link-item"><a href="/html/home.html#best-sellers" class="link">Best Sellers</a></li>
-            <li class="link-item"><a href="/html/home.html#Smart%20Home" class="link">Smart Home</a></li>
-            <li class="link-item"><a href="/html/home.html#Wearables" class="link">Wearables</a></li>
-            <li class="link-item"><a href="/html/home.html#Mobile%20Devices" class="link">Mobile Devices</a></li>
+            <li class="link-item"><a href="../html/home.html" class="link">Home</a></li>
+            <li class="link-item"><a href="../html/home.html#best-sellers" class="link">Best Sellers</a></li>
+            <li class="link-item"><a href="../html/home.html#Smart%20Home" class="link">Smart Home</a></li>
+            <li class="link-item"><a href="../html/home.html#Wearables" class="link">Wearables</a></li>
+            <li class="link-item"><a href="../html/home.html#Mobile%20Devices" class="link">Mobile Devices</a></li>
         </ul>
     `;
 }
