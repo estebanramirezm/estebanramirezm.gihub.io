@@ -42,7 +42,7 @@ function createCard(product) {
   card.classList.add('product-card');
 
   const link = document.createElement('a');
-  link.href = '/html/product.html?id=' + product.id;
+  link.href = '../html/product.html?id=' + product.id;
   
   const image = document.createElement('div');
   image.classList.add('product-image');
