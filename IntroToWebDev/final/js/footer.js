@@ -7,9 +7,9 @@ const createFooter = () => {
     </div>
     <div class="footer-social-container">
         <div>
-            <a href="/html/terms.html" class="social-link">terms & services</a>
-            <a href="/html/about.html" class="social-link">about</a>
-            <a href="/html/404.html" class="social-link">404 Example</a>
+            <a href="../html/terms.html" class="social-link">terms & services</a>
+            <a href="../html/about.html" class="social-link">about</a>
+            <a href="../html/404.html" class="social-link">404 Example</a>
         </div>
         <div>
             <a href="#" class="social-link">instagram</a>
