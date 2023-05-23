@@ -38,7 +38,7 @@ function CardOutput(product) {
   if (product.hasOwnProperty("sale")) {
     document.write('<span class="discount-tag">' + percentage(product.price, product.sale) + '% off </span>');
   };
-  document.write('<a href="/product.html?id=' + product.id + '">');
+  document.write('<a href="../product.html?id=' + product.id + '">');
   document.write('<img src="' + product.imagePath + '" class="product-thumb" alt="">');
   document.write('</a>')
   document.write('<button class="card-btn">add to wishlist</button>');
