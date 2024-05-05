@@ -1,7 +1,7 @@
 ### by Esteban Ramírez
 Welcome to my GitHub page!
 
-This page is where I’ve put together some cool projects from different classes I've taken. It showcases the effort I've put in and all the stuff I've learned along the way. Hope you find it interesting!
+This page is where I’ve put together some cool projects from different classes I've taken. It showcases all the stuff I've learned along the way. I hope you find it interesting!
 
 ## Intro to Web Development (HTML / CSS / JavaScript)
 * [Basic Cookie Recipe (in-Class)](https://estebanramirezm.github.io/classProjects/Cookie%20Website%20(in-Class)/cookies.html)
