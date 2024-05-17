@@ -52,7 +52,7 @@ This page is where I’ve put together some cool projects from different classes
 * Project 8 - CH8 Project #1 [Code](https://github.com/estebanramirezm/estebanramirezm.github.io/tree/main/IntroToWebDev/chapter08/project1) [View](https://estebanramirezm.github.io/IntroToWebDev/chapter08/project1/ch08-proj01.html)
 * Project 9 - CH8 Project #2 [Code](https://github.com/estebanramirezm/estebanramirezm.github.io/tree/main/IntroToWebDev/chapter08/project2) [View](https://estebanramirezm.github.io/IntroToWebDev/chapter08/project2/ch08-proj02.html)
 * Project 10 - CH8 Project #3 [Code](https://github.com/estebanramirezm/estebanramirezm.github.io/tree/main/IntroToWebDev/chapter08/Project03) [View](https://estebanramirezm.github.io/IntroToWebDev/chapter08/Project03/ch08-proj3.html)
-* [(FINAL PROJECT) Tech Nexus - Shopping Website Main Interface Demo](https://technexusshop.netlify.app/home.html)
+* FINAL PROJECT - Tech Nexus - Shopping Website Main Interface Demo [View](https://technexusshop.netlify.app/home.html)
 
 ## Computer Organization and Architecture (MIPS assembly)
 TBA
