@@ -1,4 +1,3 @@
-### by Esteban Ramírez
 Welcome to my GitHub page!
 
 This page is where I’ve put together some cool projects from different classes I've taken. It showcases all the stuff I've learned along the way. I hope you find it interesting!
