@@ -58,4 +58,12 @@ This page is where I’ve put together some cool projects from different classes
 TBA
 
 ## Intro to C (C)
-TBA
+* Project 1A - DESCRIPTION [ADD Code](---) [ADD View](---)
+* Project 1B - DESCRIPTION [ADD Code](---) [ADD View](---)
+* Project 1C - DESCRIPTION [ADD Code](---) [ADD View](---)
+* Project 2A - DESCRIPTION [ADD Code](---) [ADD View](---)
+* Project 2B - DESCRIPTION [ADD Code](---) [ADD View](---)
+* Project 2C - DESCRIPTION [ADD Code](---) [ADD View](---)
+* Project 3 - DESCRIPTION [ADD Code](---) [ADD View](---)
+* Project 4 - DESCRIPTION [ADD Code](---) [ADD View](---)
+
