@@ -56,7 +56,14 @@ This page is where I’ve put together some cool projects from different classes
 
 ## Computer Organization and Architecture (MIPS assembly)
 To run these projects, use [QtSpim](https://spimsimulator.sourceforge.net/)
-* 
+* Project 1 - [Code](https://github.com/estebanramirezm/Computer-Organization-and-Architecture/blob/main/Project%201.asm)
+* Project 2 - [Code](https://github.com/estebanramirezm/Computer-Organization-and-Architecture/blob/main/Project%202.asm)
+* Project 3 - [Code](https://github.com/estebanramirezm/Computer-Organization-and-Architecture/blob/main/Project%203.asm)
+* Project 4 - [Code](https://github.com/estebanramirezm/Computer-Organization-and-Architecture/blob/main/Project%204.asm)
+* Project 5 - [Code](https://github.com/estebanramirezm/Computer-Organization-and-Architecture/blob/main/Project%205.asm)
+* Project 6 - [Code](https://github.com/estebanramirezm/Computer-Organization-and-Architecture/blob/main/Project%206.asm)
+* Project 7 - [Code](https://github.com/estebanramirezm/Computer-Organization-and-Architecture/blob/main/Project%207.asm)
+* Project 8 - [Code](https://github.com/estebanramirezm/Computer-Organization-and-Architecture/blob/main/Project%208.asm)
 
 ## Intro to C (C)
 * Project 1A - [Code](https://github.com/estebanramirezm/Intro-to-C/blob/main/Project%201A.c) [View](https://onlinegdb.com/NHv8VFkyV)
