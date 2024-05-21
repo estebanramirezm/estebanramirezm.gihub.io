@@ -58,12 +58,12 @@ This page is where I’ve put together some cool projects from different classes
 TBA
 
 ## Intro to C (C)
-* Project 1A - DESCRIPTION [ADD Code](---) [ADD View](---)
-* Project 1B - DESCRIPTION [ADD Code](---) [ADD View](---)
-* Project 1C - DESCRIPTION [ADD Code](---) [ADD View](---)
-* Project 2A - DESCRIPTION [ADD Code](---) [ADD View](---)
-* Project 2B - DESCRIPTION [ADD Code](---) [ADD View](---)
-* Project 2C - DESCRIPTION [ADD Code](---) [ADD View](---)
-* Project 3 - DESCRIPTION [ADD Code](---) [ADD View](---)
-* Project 4 - DESCRIPTION [ADD Code](---) [ADD View](---)
-
+* Project 1A - [Code](https://github.com/estebanramirezm/Intro-to-C/blob/main/Project%201A.c) [View](https://onlinegdb.com/NHv8VFkyV)
+* Project 1B - [Code](https://github.com/estebanramirezm/Intro-to-C/blob/main/Project%201B.c) [View](https://onlinegdb.com/4YA4-7l8L)
+* Project 1C - [Code](https://github.com/estebanramirezm/Intro-to-C/blob/main/Project%201C.c) [View](https://onlinegdb.com/_6KjKiakd)
+* Project 2A - [Code](https://github.com/estebanramirezm/Intro-to-C/blob/main/Project%202A.c) [View](https://onlinegdb.com/01Z-bN7lj)
+* Project 2B - [Code](https://github.com/estebanramirezm/Intro-to-C/blob/main/Project%202B.c) [View](https://onlinegdb.com/57pU3NpWN)
+* Project 2C - [Code](https://github.com/estebanramirezm/Intro-to-C/blob/main/Project%202C.c) [View](https://onlinegdb.com/JLtTnKECI)
+* Project 3 - [Code](https://github.com/estebanramirezm/Intro-to-C/blob/main/Project%203.c) [View](https://onlinegdb.com/rG8PbUT-C)
+* Project 4 - [Code](https://github.com/estebanramirezm/Intro-to-C/blob/main/Project%204.c) [View](https://onlinegdb.com/rG8PbUT-C)
+ 
