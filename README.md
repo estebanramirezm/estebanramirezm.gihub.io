@@ -55,7 +55,8 @@ This page is where I’ve put together some cool projects from different classes
 * FINAL PROJECT - Tech Nexus - Shopping Website Main Interface Demo [View](https://technexusshop.netlify.app/home.html)
 
 ## Computer Organization and Architecture (MIPS assembly)
-TBA
+To run these projects, use [QtSpim](https://spimsimulator.sourceforge.net/)
+* 
 
 ## Intro to C (C)
 * Project 1A - [Code](https://github.com/estebanramirezm/Intro-to-C/blob/main/Project%201A.c) [View](https://onlinegdb.com/NHv8VFkyV)
