@@ -30,7 +30,7 @@ To run these projects, use [QtSpim](https://spimsimulator.sourceforge.net/)
 * Project 7 - Maximum value in an array (based on C/C++) [Source](https://github.com/estebanramirezm/Computer-Organization-and-Architecture/blob/main/Project%207.asm)
 * Project 8 - Linked list implementation (based on C) [Source](https://github.com/estebanramirezm/Computer-Organization-and-Architecture/blob/main/Project%208.asm
 
-## Snow College Advancement Office - Student Assistant position (XTHML via OmniCMS)
+## Snow College Advancement Office - Student Assistant position (XHTML via OmniCMS)
 * Office main page + subpages (archive from late 2023 using Wayback Machine) [View](https://web.archive.org/web/20231208122229/https://snow.edu/advancement/)
 
 ## Introduction to Web Development (HTML / CSS / JavaScript) @ Snow College
