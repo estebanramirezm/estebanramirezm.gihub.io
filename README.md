@@ -1,6 +1,6 @@
 Welcome to my GitHub page!
 
-This page is where I’ve put together projects from different courses I've taken. It showcases all the stuff I've learned along the way and my progress in reverse chronological order (most recent first). I hope you like it!
+This page is where I’ve put together projects from different courses I've taken and more. It showcases all the stuff I've learned along the way and my progress in reverse chronological order (most recent first). I hope you like it!
 
 ## Computer Science 1 (C) @  University of Central Florida
 * Lab 1 - Highest total score in a set of student data [Replit](https://replit.com/@estebanramire22/CS1-Lab-1?v=1)
@@ -28,7 +28,10 @@ To run these projects, use [QtSpim](https://spimsimulator.sourceforge.net/)
 * Project 5 - Floating-point number to 8-digit hexadecimal [Source](https://github.com/estebanramirezm/Computer-Organization-and-Architecture/blob/main/Project%205.asm)
 * Project 6 - Approximation of the value of PI [Source](https://github.com/estebanramirezm/Computer-Organization-and-Architecture/blob/main/Project%206.asm)
 * Project 7 - Maximum value in an array (based on C/C++) [Source](https://github.com/estebanramirezm/Computer-Organization-and-Architecture/blob/main/Project%207.asm)
-* Project 8 - Linked list implementation (based on C) [Source](https://github.com/estebanramirezm/Computer-Organization-and-Architecture/blob/main/Project%208.asm)
+* Project 8 - Linked list implementation (based on C) [Source](https://github.com/estebanramirezm/Computer-Organization-and-Architecture/blob/main/Project%208.asm
+
+## Snow College Advancement Office - Student Assistant position (XTHML via OmniCMS)
+* Office Main Page (archive from late 2023 using Wayback Machine) [View](https://web.archive.org/web/20231208122229/https://snow.edu/advancement/)
 
 ## Introduction to Web Development (HTML / CSS / JavaScript) @ Snow College
 * Project 1 - Basic Cookie Recipe [Source](https://github.com/estebanramirezm/estebanramirezm.github.io/tree/main/IntroToWebDev/classProjects/Cookie%20Website%20(in-Class)) [Run](https://estebanramirezm.github.io/IntroToWebDev/classProjects/Cookie%20Website%20(in-Class)/cookies.html)
