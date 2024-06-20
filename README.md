@@ -1,21 +1,21 @@
 Welcome to my GitHub page!
 
-This page is where I’ve put together some cool projects from different classes I've taken. It showcases all the stuff I've learned along the way and my evolution in chronological order. I hope you find it interesting!
+This page is where I’ve put together projects from different courses I've taken. It showcases all the stuff I've learned along the way and my progress in reverse chronological order (most recent first). I hope you like it!
 
 ## Fundamentals of Programming (C++)
 * Lab 1 - Hello World [Code](https://github.com/estebanramirezm/Fundamentals-Of-Programming/tree/main/lab-1-estebanramirezm) [View](https://onlinegdb.com/7gPgJ47GA)
-* Lab 2 - Description [Code](https://github.com/estebanramirezm/Fundamentals-Of-Programming/tree/main/lab-2-estebanramirezm) [View](https://onlinegdb.com/4ygNZKcme)
+* Lab 2 - Difference and sum of two integers [Code](https://github.com/estebanramirezm/Fundamentals-Of-Programming/tree/main/lab-2-estebanramirezm) [View](https://onlinegdb.com/4ygNZKcme)
 * Lab 3 [Code](https://github.com/estebanramirezm/Fundamentals-Of-Programming/tree/main/lab-3-estebanramirezm) 
-  * Lab 3a - Description [View](https://onlinegdb.com/rtoc0iHIR)
-  * Lab 3b - Description [View](https://onlinegdb.com/jZxudGff1)
+  * Lab 3a - ABCs in different lines [View](https://onlinegdb.com/rtoc0iHIR)
+  * Lab 3b - Sum, difference, product, and quotient of two integers [View](https://onlinegdb.com/jZxudGff1)
 * Lab 4 [Code](https://github.com/estebanramirezm/Fundamentals-Of-Programming/tree/main/lab-4-estebanramirezm)
-  * Lab 4a - Description [View](https://onlinegdb.com/rtoc0iHIR)
-  * Lab 4b - Description [View](https://onlinegdb.com/jZxudGff1)
-  * Lab 4c - Description [View](https://onlinegdb.com/IbesRqm7i)
-* Lab 6 - Description [Code](https://github.com/estebanramirezm/Fundamentals-Of-Programming/tree/main/lab-5-estebanramirezm) [View](https://onlinegdb.com/iKN2mzsDV)
-* Lab 7 - Description [Code](https://github.com/estebanramirezm/Fundamentals-Of-Programming/tree/main/lab-7-estebanramirezm) [View](https://onlinegdb.com/BXAoaQkyF)
+  * Lab 4a - Average score of five tests [View](https://onlinegdb.com/rtoc0iHIR)
+  * Lab 4b - Computes floating-point values according to certain equations [View](https://onlinegdb.com/jZxudGff1)
+  * Lab 4c - Cosine, sine, and tangent of an angle [View](https://onlinegdb.com/IbesRqm7i)
+* Lab 6 - Tax for a given income [Code](https://github.com/estebanramirezm/Fundamentals-Of-Programming/tree/main/lab-5-estebanramirezm) [View](https://onlinegdb.com/iKN2mzsDV)
+* Lab 7 - Food based on a given letter [Code](https://github.com/estebanramirezm/Fundamentals-Of-Programming/tree/main/lab-7-estebanramirezm) [View](https://onlinegdb.com/BXAoaQkyF)
 * Lab 8 [Code](https://github.com/estebanramirezm/Fundamentals-Of-Programming/tree/main/lab-8-estebanramirezm)
-  * Lab 8a - Description [View](https://onlinegdb.com/MHpB0VErpF)
+  * Lab 8a - Math with a user-defined sequence [View](https://onlinegdb.com/MHpB0VErpF)
   * Lab 8b - Description [View](https://onlinegdb.com/E4QbkIeAr)
 * Lab 9 - Description [Code](https://github.com/estebanramirezm/Fundamentals-Of-Programming/tree/main/lab-9-estebanramirezm) [View](https://onlinegdb.com/HsdjNYZxb)
 * Lab 10 - Description [Code](https://github.com/estebanramirezm/Fundamentals-Of-Programming/tree/main/lab-10-estebanramirezm) [View](https://onlinegdb.com/AeABLtUwq)
