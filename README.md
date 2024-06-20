@@ -31,7 +31,7 @@ To run these projects, use [QtSpim](https://spimsimulator.sourceforge.net/)
 * Project 8 - Linked list implementation (based on C) [Source](https://github.com/estebanramirezm/Computer-Organization-and-Architecture/blob/main/Project%208.asm
 
 ## Snow College Advancement Office - Student Assistant position (XTHML via OmniCMS)
-* Office Main Page (archive from late 2023 using Wayback Machine) [View](https://web.archive.org/web/20231208122229/https://snow.edu/advancement/)
+* Office main page + subpages (archive from late 2023 using Wayback Machine) [View](https://web.archive.org/web/20231208122229/https://snow.edu/advancement/)
 
 ## Introduction to Web Development (HTML / CSS / JavaScript) @ Snow College
 * Project 1 - Basic Cookie Recipe [Source](https://github.com/estebanramirezm/estebanramirezm.github.io/tree/main/IntroToWebDev/classProjects/Cookie%20Website%20(in-Class)) [Run](https://estebanramirezm.github.io/IntroToWebDev/classProjects/Cookie%20Website%20(in-Class)/cookies.html)
