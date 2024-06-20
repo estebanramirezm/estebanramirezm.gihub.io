@@ -2,7 +2,14 @@ Welcome to my GitHub page!
 
 This page is where I’ve put together projects from different courses I've taken. It showcases all the stuff I've learned along the way and my progress in reverse chronological order (most recent first). I hope you like it!
 
-## Intro to C (C)
+## Computer Science 1 (C) @  University of Central Florida
+* Lab 1 - Highest total score in a set of student data [Replit](https://replit.com/@estebanramire22/CS1-Lab-1?v=1)
+* PA 1 - Smoothie shop ingredients calculator [Replit](https://replit.com/@estebanramire22/CS1-PA-1)
+* Lab 3 - Linked List [Replit](https://replit.com/@estebanramire22/CS1-Lab-3)
+* Lab 4 - Infix to postfix using a stack [Replit](https://replit.com/@estebanramire22/CS1-Lab-4?v=1#main.c)
+* PA 2 - Smoothie shop checkout time calculator [Replit](https://replit.com/@estebanramire22/CS1-PA-2?v=1#main.c)
+
+## Intro to C (C) @ University of Central Florida
 * Project 1A - Total cost of a purchase [Source](https://github.com/estebanramirezm/Intro-to-C/blob/main/Project%201A.c) [Run](https://onlinegdb.com/NHv8VFkyV)
 * Project 1B - Net calories burned [Source](https://github.com/estebanramirezm/Intro-to-C/blob/main/Project%201B.c) [Run](https://onlinegdb.com/4YA4-7l8L)
 * Project 1C - Maximum passenger capacity [Source](https://github.com/estebanramirezm/Intro-to-C/blob/main/Project%201C.c) [Run](https://onlinegdb.com/_6KjKiakd)
@@ -12,7 +19,7 @@ This page is where I’ve put together projects from different courses I've take
 * Project 3 - Food bank's inventory manager [Source](https://github.com/estebanramirezm/Intro-to-C/blob/main/Project%203.c) [Run](https://onlinegdb.com/rG8PbUT-C)
 * Project 4 - Payroll – W2 Form generator based on clock data [Source](https://github.com/estebanramirezm/Intro-to-C/blob/main/Project%204.c) [Run](https://onlinegdb.com/rG8PbUT-C)
 
-## Computer Organization and Architecture (MIPS assembly)
+## Computer Organization and Architecture (MIPS assembly) @ Snow College
 To run these projects, use [QtSpim](https://spimsimulator.sourceforge.net/)
 * Project 1 - Hello World [Source](https://github.com/estebanramirezm/Computer-Organization-and-Architecture/blob/main/Project%201.asm)
 * Project 2 - AtoI in MIPS (based on C) [Source](https://github.com/estebanramirezm/Computer-Organization-and-Architecture/blob/main/Project%202.asm)
@@ -23,7 +30,7 @@ To run these projects, use [QtSpim](https://spimsimulator.sourceforge.net/)
 * Project 7 - Maximum value in an array (based on C/C++) [Source](https://github.com/estebanramirezm/Computer-Organization-and-Architecture/blob/main/Project%207.asm)
 * Project 8 - Linked list implementation (based on C) [Source](https://github.com/estebanramirezm/Computer-Organization-and-Architecture/blob/main/Project%208.asm)
 
-## Introduction to Web Development (HTML / CSS / JavaScript)
+## Introduction to Web Development (HTML / CSS / JavaScript) @ Snow College
 * Project 1 - Basic Cookie Recipe [Source](https://github.com/estebanramirezm/estebanramirezm.github.io/tree/main/IntroToWebDev/classProjects/Cookie%20Website%20(in-Class)) [Run](https://estebanramirezm.github.io/IntroToWebDev/classProjects/Cookie%20Website%20(in-Class)/cookies.html)
 * Project 2 - Art Gallery Viewer [Source](https://github.com/estebanramirezm/estebanramirezm.github.io/tree/main/IntroToWebDev/chapter3/project3) [View](https://estebanramirezm.github.io/IntroToWebDev/chapter3/project3/default.html)
 * Project 3 - Painting description [Source](https://github.com/estebanramirezm/estebanramirezm.github.io/tree/main/IntroToWebDev/chapter04/project1) [View](https://estebanramirezm.github.io/IntroToWebDev/chapter04/project1/ch04-proj01.html)
@@ -36,7 +43,7 @@ To run these projects, use [QtSpim](https://spimsimulator.sourceforge.net/)
 * Project 10 - Stocks analyzer via JSON [Source](https://github.com/estebanramirezm/estebanramirezm.github.io/tree/main/IntroToWebDev/chapter08/Project03) [View](https://estebanramirezm.github.io/IntroToWebDev/chapter08/Project03/ch08-proj3.html)
 * FINAL PROJECT - Tech Nexus - Shopping Website Main Interface Demo [View](https://technexusshop.netlify.app/home.html)
 
-## Object-Oriented Programming (C++)
+## Object-Oriented Programming (C++) @ Snow College
 * Lab 01 - Vowels/consonants in a string [Source](https://github.com/estebanramirezm/Object-Oriented-Programming/tree/main/lab-01-estebanramirezm) [Run](https://onlinegdb.com/JMmyiS9RG)
 * Lab 02 - Fraction simplifier [Source](https://github.com/estebanramirezm/Object-Oriented-Programming/tree/main/lab-02-estebanramirezm) [Run](https://onlinegdb.com/Sk_AC32Ke)
 * Lab 03 - Wavelength for a color [Source](https://github.com/estebanramirezm/Object-Oriented-Programming/tree/main/lab-03-estebanramirezm) [Run](https://onlinegdb.com/91SGbu6Ej)
@@ -52,7 +59,7 @@ To run these projects, use [QtSpim](https://spimsimulator.sourceforge.net/)
 * Lab 13 - Linked lists [Source](https://github.com/estebanramirezm/Object-Oriented-Programming/tree/main/lab-13-estebanramirezm-1) [Run](https://onlinegdb.com/INUBdcdTc2)
 * Lab 14 - Bankline Simulator [Source](https://github.com/estebanramirezm/Object-Oriented-Programming/tree/main/lab-14-estebanramirezm-1) [Run](https://onlinegdb.com/bCRP9Jr_O)
 
-## Fundamentals of Programming (C++)
+## Fundamentals of Programming (C++) @ Snow College
 * Lab 1 - Hello World [Source](https://github.com/estebanramirezm/Fundamentals-Of-Programming/tree/main/lab-1-estebanramirezm) [Run](https://onlinegdb.com/7gPgJ47GA)
 * Lab 2 - Difference and sum of two integers [Source](https://github.com/estebanramirezm/Fundamentals-Of-Programming/tree/main/lab-2-estebanramirezm) [Run](https://onlinegdb.com/4ygNZKcme)
 * Lab 3 [Source](https://github.com/estebanramirezm/Fundamentals-Of-Programming/tree/main/lab-3-estebanramirezm) 
