@@ -4,10 +4,10 @@ This page is where I’ve put together projects from different courses I've take
 
 ## Computer Science 1 (C) @  University of Central Florida
 * Lab 1 - Highest total score in a set of student data [Replit](https://replit.com/@estebanramire22/CS1-Lab-1?v=1)
-* PA 1 - Smoothie shop ingredients calculator [Replit](https://replit.com/@estebanramire22/CS1-PA-1)
+* Programming Assignment 1 - Smoothie shop ingredients calculator [Replit](https://replit.com/@estebanramire22/CS1-PA-1)
 * Lab 3 - Linked List [Replit](https://replit.com/@estebanramire22/CS1-Lab-3)
 * Lab 4 - Infix to postfix using a stack [Replit](https://replit.com/@estebanramire22/CS1-Lab-4?v=1#main.c)
-* PA 2 - Smoothie shop checkout time calculator [Replit](https://replit.com/@estebanramire22/CS1-PA-2?v=1#main.c)
+* Programming Assignment 2 - Smoothie shop checkout time calculator [Replit](https://replit.com/@estebanramire22/CS1-PA-2?v=1#main.c)
 
 ## Intro to C (C) @ University of Central Florida
 * Project 1A - Total cost of a purchase [Source](https://github.com/estebanramirezm/Intro-to-C/blob/main/Project%201A.c) [Run](https://onlinegdb.com/NHv8VFkyV)
