@@ -30,9 +30,6 @@ To run these projects, use [QtSpim](https://spimsimulator.sourceforge.net/)
 * Project 7 - Maximum value in an array (based on C/C++) [Source](https://github.com/estebanramirezm/Computer-Organization-and-Architecture/blob/main/Project%207.asm)
 * Project 8 - Linked list implementation (based on C) [Source](https://github.com/estebanramirezm/Computer-Organization-and-Architecture/blob/main/Project%208.asm)
 
-## Snow College Advancement Office - Student Assistant position (XHTML via OmniCMS)
-* Office main page + subpages (archived 2023 using Wayback Machine) [View](https://web.archive.org/web/20231208122229/https://snow.edu/advancement/)
-
 ## Introduction to Web Development (HTML / CSS / JavaScript) @ Snow College
 * Project 1 - Basic Cookie Recipe [Source](https://github.com/estebanramirezm/estebanramirezm.github.io/tree/main/IntroToWebDev/classProjects/Cookie%20Website%20(in-Class)) [Run](https://estebanramirezm.github.io/IntroToWebDev/classProjects/Cookie%20Website%20(in-Class)/cookies.html)
 * Project 2 - Art Gallery Viewer [Source](https://github.com/estebanramirezm/estebanramirezm.github.io/tree/main/IntroToWebDev/chapter3/project3) [View](https://estebanramirezm.github.io/IntroToWebDev/chapter3/project3/default.html)
