@@ -3,7 +3,7 @@ Welcome to my GitHub page!
 This page is where I’ve put together projects from different courses I've taken and more. It showcases all the stuff I've learned along the way and my progress in reverse chronological order (most recent first). I hope you like it!
 
 ## Enterprise Computing (Java) @ University of Central Florida
-* Project 1 - Nile Dot Com GUI-based shopping application [Source](https://github.com/estebanramirezm/Enterprise-Computing/tree/main/Project%201) 
+* Project 1 - Nile Dot Com GUI-based shopping application [Source](https://github.com/estebanramirezm/Enterprise-Computing/tree/main/Project%201) [Replit](https://replit.com/@estebyanrm2/Nile-Dot-Com?v=1)
 
 ## Computer Science 1 (C) @  University of Central Florida
 * Lab 1 - Highest total score in a set of student data [Replit](https://replit.com/@estebanramire22/CS1-Lab-1?v=1)
